@@ -1,0 +1,22 @@
+# OpenCleaner
+OpenCleaner is a open-source and free PC Cleaning program.
+We made OpenCleaner for everyone to use and for everyone to contribute. 
+By editing OpenCleaner you can create different themes, 
+further optimize the code, add new features and send it to us. 
+This way we can make OpenCleaner the best for everyone and keep our computers free of garbage!
+
+Anyone is free to modify, use, or compile
+this software.If you want to update, modify, publish, sell or 
+in any way make money on the software, please contact us before doing so.
+
+We created OpenCleaner so that anyone can use and modify it. 
+This is an open source and free alternative to our YCleaner software. 
+OpenCleaner was and always will be free. For this reason,
+we will not allow you to copy one or more parts of the OpenCleaner code 
+or program and sell it for a fee or earn money in this way.
+
+Having said that, you are allowed to write your own program based 
+on OpenCleaner's code or the program itself. 
+But please do not try to copy some or all of OpenCleaner and sell it.
+
+Contact: yagisoft@yandex.com
