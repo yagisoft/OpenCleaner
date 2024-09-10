@@ -1,0 +1,26 @@
+E:\repos\OpenCleaner\OpenCleaner\OpenCleaner\bin\Release\OpenCleaner.exe.config
+E:\repos\OpenCleaner\OpenCleaner\OpenCleaner\bin\Release\OpenCleaner.exe
+E:\repos\OpenCleaner\OpenCleaner\OpenCleaner\bin\Release\OpenCleaner.pdb
+E:\repos\OpenCleaner\OpenCleaner\OpenCleaner\obj\Release\OpenCleaner.csproj.AssemblyReference.cache
+E:\repos\OpenCleaner\OpenCleaner\OpenCleaner\obj\Release\OpenCleaner.csproj.SuggestedBindingRedirects.cache
+E:\repos\OpenCleaner\OpenCleaner\OpenCleaner\obj\Release\OpenCleaner.ana.resources
+E:\repos\OpenCleaner\OpenCleaner\OpenCleaner\obj\Release\OpenCleaner.Properties.Resources.resources
+E:\repos\OpenCleaner\OpenCleaner\OpenCleaner\obj\Release\OpenCleaner.csproj.GenerateResource.cache
+E:\repos\OpenCleaner\OpenCleaner\OpenCleaner\obj\Release\OpenCleaner.csproj.CoreCompileInputs.cache
+E:\repos\OpenCleaner\OpenCleaner\OpenCleaner\obj\Release\OpenCleaner.exe
+E:\repos\OpenCleaner\OpenCleaner\OpenCleaner\obj\Release\OpenCleaner.pdb
+C:\Users\uzerg\Documents\YagiSoft\OpenCleaner-main\For Developers with love!\OpenCleaner\bin\Release\OpenCleaner.exe.config
+C:\Users\uzerg\Documents\YagiSoft\OpenCleaner-main\For Developers with love!\OpenCleaner\bin\Release\OpenCleaner.exe.manifest
+C:\Users\uzerg\Documents\YagiSoft\OpenCleaner-main\For Developers with love!\OpenCleaner\bin\Release\OpenCleaner.application
+C:\Users\uzerg\Documents\YagiSoft\OpenCleaner-main\For Developers with love!\OpenCleaner\bin\Release\OpenCleaner.exe
+C:\Users\uzerg\Documents\YagiSoft\OpenCleaner-main\For Developers with love!\OpenCleaner\bin\Release\OpenCleaner.pdb
+C:\Users\uzerg\Documents\YagiSoft\OpenCleaner-main\For Developers with love!\OpenCleaner\obj\Release\OpenCleaner.csproj.AssemblyReference.cache
+C:\Users\uzerg\Documents\YagiSoft\OpenCleaner-main\For Developers with love!\OpenCleaner\obj\Release\OpenCleaner.ana.resources
+C:\Users\uzerg\Documents\YagiSoft\OpenCleaner-main\For Developers with love!\OpenCleaner\obj\Release\OpenCleaner.Properties.Resources.resources
+C:\Users\uzerg\Documents\YagiSoft\OpenCleaner-main\For Developers with love!\OpenCleaner\obj\Release\OpenCleaner.csproj.GenerateResource.cache
+C:\Users\uzerg\Documents\YagiSoft\OpenCleaner-main\For Developers with love!\OpenCleaner\obj\Release\OpenCleaner.csproj.CoreCompileInputs.cache
+C:\Users\uzerg\Documents\YagiSoft\OpenCleaner-main\For Developers with love!\OpenCleaner\obj\Release\OpenCleaner.TrustInfo.xml
+C:\Users\uzerg\Documents\YagiSoft\OpenCleaner-main\For Developers with love!\OpenCleaner\obj\Release\OpenCleaner.exe.manifest
+C:\Users\uzerg\Documents\YagiSoft\OpenCleaner-main\For Developers with love!\OpenCleaner\obj\Release\OpenCleaner.application
+C:\Users\uzerg\Documents\YagiSoft\OpenCleaner-main\For Developers with love!\OpenCleaner\obj\Release\OpenCleaner.exe
+C:\Users\uzerg\Documents\YagiSoft\OpenCleaner-main\For Developers with love!\OpenCleaner\obj\Release\OpenCleaner.pdb

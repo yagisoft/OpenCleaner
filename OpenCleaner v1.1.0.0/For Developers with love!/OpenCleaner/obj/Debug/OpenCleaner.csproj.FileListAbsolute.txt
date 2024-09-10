@@ -1,0 +1,21 @@
+E:\repos\OpenCleaner\OpenCleaner\OpenCleaner\bin\Debug\OpenCleaner.exe.config
+E:\repos\OpenCleaner\OpenCleaner\OpenCleaner\bin\Debug\OpenCleaner.exe
+E:\repos\OpenCleaner\OpenCleaner\OpenCleaner\bin\Debug\OpenCleaner.pdb
+E:\repos\OpenCleaner\OpenCleaner\OpenCleaner\obj\Debug\OpenCleaner.csproj.AssemblyReference.cache
+E:\repos\OpenCleaner\OpenCleaner\OpenCleaner\obj\Debug\OpenCleaner.csproj.SuggestedBindingRedirects.cache
+E:\repos\OpenCleaner\OpenCleaner\OpenCleaner\obj\Debug\OpenCleaner.ana.resources
+E:\repos\OpenCleaner\OpenCleaner\OpenCleaner\obj\Debug\OpenCleaner.Properties.Resources.resources
+E:\repos\OpenCleaner\OpenCleaner\OpenCleaner\obj\Debug\OpenCleaner.csproj.GenerateResource.cache
+E:\repos\OpenCleaner\OpenCleaner\OpenCleaner\obj\Debug\OpenCleaner.csproj.CoreCompileInputs.cache
+E:\repos\OpenCleaner\OpenCleaner\OpenCleaner\obj\Debug\OpenCleaner.exe
+E:\repos\OpenCleaner\OpenCleaner\OpenCleaner\obj\Debug\OpenCleaner.pdb
+C:\Users\uzerg\Documents\YagiSoft\OpenCleaner-main\For Developers with love!\OpenCleaner\bin\Debug\OpenCleaner.exe.config
+C:\Users\uzerg\Documents\YagiSoft\OpenCleaner-main\For Developers with love!\OpenCleaner\bin\Debug\OpenCleaner.exe
+C:\Users\uzerg\Documents\YagiSoft\OpenCleaner-main\For Developers with love!\OpenCleaner\bin\Debug\OpenCleaner.pdb
+C:\Users\uzerg\Documents\YagiSoft\OpenCleaner-main\For Developers with love!\OpenCleaner\obj\Debug\OpenCleaner.csproj.AssemblyReference.cache
+C:\Users\uzerg\Documents\YagiSoft\OpenCleaner-main\For Developers with love!\OpenCleaner\obj\Debug\OpenCleaner.ana.resources
+C:\Users\uzerg\Documents\YagiSoft\OpenCleaner-main\For Developers with love!\OpenCleaner\obj\Debug\OpenCleaner.Properties.Resources.resources
+C:\Users\uzerg\Documents\YagiSoft\OpenCleaner-main\For Developers with love!\OpenCleaner\obj\Debug\OpenCleaner.csproj.GenerateResource.cache
+C:\Users\uzerg\Documents\YagiSoft\OpenCleaner-main\For Developers with love!\OpenCleaner\obj\Debug\OpenCleaner.csproj.CoreCompileInputs.cache
+C:\Users\uzerg\Documents\YagiSoft\OpenCleaner-main\For Developers with love!\OpenCleaner\obj\Debug\OpenCleaner.exe
+C:\Users\uzerg\Documents\YagiSoft\OpenCleaner-main\For Developers with love!\OpenCleaner\obj\Debug\OpenCleaner.pdb
